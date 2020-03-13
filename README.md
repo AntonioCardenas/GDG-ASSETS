@@ -11,3 +11,5 @@ If you would like to share something here, make sure you want it to fall under t
 ### How do I share my assets? Fork this repo, add your assets, and submit a pull request :)
 
 ### Guidelines (https://developers.google.com/community/guidelines)
+
+### Online maker (https://gdg-chapter-lockup-generator.appspot.com/)<== **Credits to autor please pr and confirm ownership**
